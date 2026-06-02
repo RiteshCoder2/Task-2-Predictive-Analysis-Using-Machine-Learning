@@ -42,6 +42,11 @@ Task-2-Predictive-Analysis-ML/
 │
 ├── 📓 predictive_analysis.ipynb   ← Main Jupyter Notebook
 ├── 📊 heart_attack_data.csv       ← Dataset (50,000 patients)
+└── confusion_matrices.png
+└── correlation_heatmap.png
+└── eda_plots.png
+└── feature_importance.png
+└── roc_model_comparison.png
 └── 📝 README.md
 ```
 
